@@ -12,7 +12,7 @@ Sou estudante de Engenharia de Software e estou construindo minha carreira na á
 
 Atualmente, estou focado em fortalecer meus fundamentos de programação, estruturas de dados, bancos de dados, sempre buscando adquirir mais conhecimento e experiência.
 
-Meu objetivo é conquistar uma oportunidade de estágio onde eu possa contribuir, aprender com profissionais e evoluir continuamente como desenvolvedor.
+Meu objetivo é conquistar uma oportunidade onde eu possa contribuir, aprender com profissionais e evoluir continuamente como desenvolvedor.
 
 ## 📚 Atualmente estudando
 
